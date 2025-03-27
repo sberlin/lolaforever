@@ -12,9 +12,11 @@ Andere Initiativen in Hannover sind bereits weiter mit ihrer Selbstorganisation 
 
 Diese Initiativen gehören zu den aufwändigeren Möglichkeiten als Graswurzelbewegung Waren des täglichen Bedarfs zu beziehen. Es gibt aktuell keine Pläne so eine Initiative neu zu gründen, da es eine sehr engagierte Gruppe von Menschen braucht, um sie auf die Beine zu stellen. Der Kontakt über die Mailingliste lolaforever@lists.posteo.de kann den passenden Rahmen bieten Gleichgesinnte zu finden, falls ihr daran Interesse habt.
 
-Wenn es also keine eigene professionell betriebene Kooperative gibt, sind wir auf andere Formen der Selbstorganisation angewiesen. Ich möchte deshalb mit dem unkomplizierten Austausch über folgende Listen starten. Das Dokument kann von allen bearbeitet werden, also schaut es euch gerne an, macht erste Eintragungen und kommentiert bei Verständnisfragen direkt im Dokument. Google Sheets ist bestimmt nicht die beste Lösung dafür, aber vielen sicherlich bekannt.
+Wenn es also keine eigene professionell betriebene Kooperative gibt, sind wir auf andere Formen der Selbstorganisation angewiesen. Ich möchte deshalb mit dem unkomplizierten Austausch über ein gemeinsam bearbeitbares Dokument starten. Das kann von allen bearbeitet werden, deshalb ist der Zugang momentan noch nicht öffentlich. Google Sheets ist bestimmt nicht die beste Lösung, aber vielen sicherlich bekannt.
 
 Steven aus der Südstadt
 
 ## Newsletter
 Neuigkeiten werden per Newsletter in Form von E-Mails versandt. Jede Person darf sich dazu selbstständig registrieren: https://lists.posteo.de/listinfo/lolaforever
+
+Wer sich registriert, erhält Zugang zum Dokument bei Google Sheets und den Einladungslink zu einer Messe ngergruppe bei Signal.
