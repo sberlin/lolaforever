@@ -20,3 +20,9 @@ Steven aus der Südstadt
 Neuigkeiten werden per Newsletter an eine Mailingliste versandt. Jede Person darf sich dazu selbstständig registrieren: [https://lists.posteo.de/listinfo/lolaforever](https://lists.posteo.de/listinfo/lolaforever)
 
 Wer sich registriert, erhält Zugang zum Dokument bei Google Sheets und den Einladungslink zu einer Messe ngergruppe bei Signal.
+
+## Einzelhandel
+
+Die Liste der uns bekannten Läden, die Produkte in irgendeiner Form unverpackt, zum Abfüllen etc. anbieten, wird hier veröffentlicht:
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQliXG_XNvtnH44Cj75XP49-Guy9-A9e2rBBsHKxEY-gqBQS8hti-Z-NxF3AoRTC5dmRBGYx3urD6k3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
