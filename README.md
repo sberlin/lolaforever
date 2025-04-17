@@ -25,4 +25,4 @@ Wer sich registriert, erhält Zugang zum Dokument bei Google Sheets und den Einl
 
 Die Liste der uns bekannten Läden, die Produkte in irgendeiner Form unverpackt, zum Abfüllen etc. anbieten, wird hier veröffentlicht:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQliXG_XNvtnH44Cj75XP49-Guy9-A9e2rBBsHKxEY-gqBQS8hti-Z-NxF3AoRTC5dmRBGYx3urD6k3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%;min-height: 400px;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQliXG_XNvtnH44Cj75XP49-Guy9-A9e2rBBsHKxEY-gqBQS8hti-Z-NxF3AoRTC5dmRBGYx3urD6k3/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false" style="width: 100%;min-height: 600px;"></iframe>
