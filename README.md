@@ -21,6 +21,12 @@ Neuigkeiten werden per Newsletter an eine Mailingliste versandt. Jede Person dar
 
 Wer sich registriert, erhält Zugang zum Dokument bei Google Sheets und den Einladungslink zu einer Messengergruppe bei Signal.
 
+## Treffen
+
+Wir treffen uns monatlich in der Südstadt zum Austausch von Neuigkeiten, Diskussionen und auch losen Waren wie Lebensmitteln in Großgebinden.
+
+![Treffen September 2025](assets/25-09-treffen.png)
+
 ## Einzelhandel
 
 Die Liste der uns bekannten Läden, die Produkte in irgendeiner Form unverpackt, zum Abfüllen etc. anbieten, wird hier veröffentlicht:
