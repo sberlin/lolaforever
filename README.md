@@ -25,9 +25,9 @@ Wer sich registriert, erhält Zugang zum Dokument bei Google Sheets und den Einl
 
 Wir treffen uns monatlich in der Südstadt zum Austausch von Neuigkeiten, Diskussionen und auch losen Waren wie Lebensmitteln in Großgebinden.
 
-![Treffen Oktober 2025](assets/25-10-treffen.png){:.img-fluid}
-![Treffen November 2025](assets/25-11-treffen.png){:.img-fluid}
-![Treffen Dezember 2025](assets/25-12-treffen.png){.img-fluid}
+![Treffen Oktober 2025](assets/25-10-treffen.png)
+![Treffen November 2025](assets/25-11-treffen.png)
+![Treffen Dezember 2025](assets/25-12-treffen.png)
 
 ## Einzelhandel
 
