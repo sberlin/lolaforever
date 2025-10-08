@@ -12,14 +12,14 @@ Andere Initiativen in Hannover sind bereits weiter mit ihrer Selbstorganisation 
 
 Diese Initiativen gehören zu den aufwändigeren Möglichkeiten als Graswurzelbewegung Waren des täglichen Bedarfs zu beziehen. Es gibt aktuell keine Pläne so eine Initiative neu zu gründen, da es eine sehr engagierte Gruppe von Menschen braucht, um sie auf die Beine zu stellen. Der Kontakt über die Mailingliste [lolaforever@lists.posteo.de](mailto:lolaforever@lists.posteo.de) kann den passenden Rahmen bieten Gleichgesinnte zu finden, falls ihr daran Interesse habt.
 
-Wenn es also keine eigene professionell betriebene Kooperative gibt, sind wir auf andere Formen der Selbstorganisation angewiesen. Ich möchte deshalb mit dem unkomplizierten Austausch über ein gemeinsam bearbeitbares Dokument starten. Das kann von allen bearbeitet werden, deshalb ist der Zugang momentan noch nicht öffentlich. Google Sheets ist bestimmt nicht die beste Lösung, aber vielen sicherlich bekannt.
+Wenn es also keine eigene professionell betriebene Kooperative gibt, sind wir auf andere Formen der Selbstorganisation angewiesen. Ich möchte deshalb mit dem unkomplizierten Austausch über ein gemeinsam bearbeitbares Dokument starten. Das kann von allen bearbeitet werden, deshalb ist der Zugang momentan noch nicht öffentlich. Tabellenkalkulation ist bestimmt nicht die beste Lösung, aber vielen sicherlich bekannt.
 
 Steven aus der Südstadt
 
 ## Newsletter
 Neuigkeiten werden per Newsletter an eine Mailingliste versandt. Jede Person darf sich dazu selbstständig registrieren: [https://lists.posteo.de/listinfo/lolaforever](https://lists.posteo.de/listinfo/lolaforever)
 
-Wer sich registriert, erhält Zugang zum Dokument bei Google Sheets und den Einladungslink zu einer Messengergruppe bei Signal.
+Wer sich registriert, erhält Zugang zum Dokument und den Einladungslink zu einer Messengergruppe bei Signal.
 
 ## Treffen
 
@@ -33,4 +33,4 @@ Wir treffen uns monatlich in der Südstadt zum Austausch von Neuigkeiten, Diskus
 
 Die Liste der uns bekannten Läden, die Produkte in irgendeiner Form unverpackt, zum Abfüllen etc. anbieten, wird hier veröffentlicht:
 
-<iframe height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQliXG_XNvtnH44Cj75XP49-Guy9-A9e2rBBsHKxEY-gqBQS8hti-Z-NxF3AoRTC5dmRBGYx3urD6k3/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false" style="width: 100%;"></iframe>
+<iframe height="600" src="https://cryptpad.digitalcourage.de/sheet/#/3/sheet/view/4178cd5ac2ac46e8cb79917297a90c7f/embed/" style="width: 100%;"></iframe>
