@@ -29,8 +29,8 @@ Wir treffen uns monatlich in der Südstadt zum Austausch von Neuigkeiten, Diskus
 ![Treffen November 2025](assets/img/25-11-treffen.png)
 ![Treffen Dezember 2025](assets/img/25-12-treffen.png)
 
-## Einzelhandel
+## Handel
 
-Die Liste der uns bekannten Läden, die Produkte in irgendeiner Form unverpackt, zum Abfüllen etc. anbieten, wird hier veröffentlicht:
+Die Liste der uns bekannten Läden, die Produkte in irgendeiner Form unverpackt, zum Abfüllen etc. anbieten, wird nachfolgend als veralteter Stand vor dem Umzug zu einem anderen Werkzeug veröffentlicht. Außerdem gibt es Angaben zu Versand- und Großhandel als Referenz für Interessierte an anderen Orten.
 
-<iframe height="600" src="https://cryptpad.digitalcourage.de/sheet/#/3/sheet/view/4178cd5ac2ac46e8cb79917297a90c7f/embed/" style="width: 100%;"></iframe>
+<iframe height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQliXG_XNvtnH44Cj75XP49-Guy9-A9e2rBBsHKxEY-gqBQS8hti-Z-NxF3AoRTC5dmRBGYx3urD6k3/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false" style="width: 100%;"></iframe>
