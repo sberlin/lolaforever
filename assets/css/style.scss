@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 @media (min-width: 544px) {
-  .markdown-body p img {
+  .markdown-body p img[alt^="Treffen"] {
     max-width: 30%;
   }
 }
