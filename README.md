@@ -25,9 +25,9 @@ Wer sich registriert, erhält Zugang zum Dokument und den Einladungslink zu eine
 
 Wir treffen uns monatlich in der Südstadt zum Austausch von Neuigkeiten, Diskussionen und auch losen Waren wie Lebensmitteln in Großgebinden.
 
-![Treffen Januar 2026](assets/img/lolaforever-2026-01-22.jpg)
-![Treffen Februar 2026](assets/img/lolaforever-2026-02-19.jpg)
-![Treffen März 2026](assets/img/lolaforever-2026-03-19.jpg)
+![Treffen April 2026](assets/img/lolaforever-2026-04-23.jpg)
+![Treffen Mai 2026](assets/img/lolaforever-2026-05-21.jpg)
+![Treffen Juni 2026](assets/img/lolaforever-2026-06-18.jpg)
 
 ## Handel
 
