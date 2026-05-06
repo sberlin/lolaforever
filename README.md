@@ -10,11 +10,11 @@ Wir unterstützen uns gegenseitig bei zwei Möglichkeiten ohne den Loseladen ein
 
 Andere Initiativen in Hannover sind bereits weiter mit ihrer Selbstorganisation und haben aus ähnlichen oder anderen Gründen Einkaufsgemeinschaften gegründet, die mglw. in der einen oder anderen Nachbarschaft, aber aktuell nicht in der Südstadt, existieren. Auf [hannover.de](https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Naturschutz/Aufgaben-Projekte/Das-Agrikulturprogramm-f%C3%BCr-Hannover/Regionale-Einkaufstipps/Solidarische-Landwirtschaft-und-Einkaufsgemeinschaften2/Einkaufsgemeinschaften) findet ihr die bekanntesten.
 
-Wir kooperieren mit einer Einkaufsgemeinschaft für unsere Bestellungen (mittlerer) Großgebinde bei https://kornkraft.com
+Wir kooperieren mit einer Einkaufsgemeinschaft für unsere Bestellungen (mittlerer) Großgebinde bei [Kornkraft](https://kornkraft.com)
 
 Einkaufsgemeinschaften gehören zu den Möglichkeiten als Graswurzelbewegung Waren des täglichen Bedarfs zu beziehen. Es gibt aktuell keine Pläne eine eigenständige Gemeinschaft zu gründen, da es eine sehr engagierte Gruppe von Menschen braucht, um Einkauf, Lagerung, Abrechnung usw. auf die Beine zu stellen. Der Kontakt über die Mailingliste [lolaforever@lists.posteo.de](mailto:lolaforever@lists.posteo.de) bietet den passenden Rahmen Gleichgesinnte zu finden.
 
-Wenn es also keine eigene professionell betriebene Kooperative gibt, sind wir auf andere Formen der Selbstorganisation angewiesen. Ich möchte deshalb mit dem unkomplizierten Austausch über ein gemeinsam bearbeitbares Dokument bei https://cryptpad.digitalcourage.de zusammen starten. Das kann von allen bearbeitet werden, deshalb ist der Zugang momentan nicht öffentlich. Tabellenkalkulation ist bestimmt nicht die beste Lösung, aber vielen sicherlich bekannt. Die Einladung zur Zusammenarbeit erfolgt nach Anmeldung zum Newsletter.
+Wenn es also keine eigene professionell betriebene Kooperative gibt, sind wir auf andere Formen der Selbstorganisation angewiesen. Ich möchte unsere Themen deshalb als unkomplizierten Austausch über ein gemeinsam bearbeitbares Dokument in der [Dokumentenverarbeitung mit Cryptpad](https://cryptpad.digitalcourage.de) koordinieren. Das kann von allen bearbeitet werden, deshalb ist der Zugang momentan nicht öffentlich. Tabellenkalkulation ist bestimmt nicht die beste Lösung, aber vielen sicherlich bekannt. Die Einladung zur Zusammenarbeit erfolgt nach Anmeldung zum Newsletter.
 
 Steven aus der Südstadt
 
