@@ -7,3 +7,11 @@
     max-width: 30%;
   }
 }
+
+.page-header {
+  padding: 2rem 6rem 8rem;
+  background: center bottom 56% / cover no-repeat url(/assets/img/lolaforever-cover.jpeg);
+  .btn {
+    display: none;
+  }
+}
