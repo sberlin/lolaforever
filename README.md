@@ -1,6 +1,3 @@
-# LoLaForever
-Unverpackt-Initiative in Hannovers Südstadt
-
 ## Willkommen
 Hier koordiniert sich die ehemalige Stammkundschaft vom LoLa Loseladen in Hannovers Südstadt. Im Dezember 2024 hat der letzte Loseladen (von ehemals 3) in Hannover seine Türen geschlossen und seitdem müssen wir auf Alternativen ausweichen, um ökologisch produzierte und lose/unverpackte Waren zu kaufen. Der Onlineversand ist nicht die erste Wahl, denn die Dinge des täglichen Bedarfs sollten eigentlich vor Ort verfügbar sein. Falls das nicht möglich ist, reduzieren wir gemeinsam durch Sammelbestellungen den Aufwand für Verpackung und Transport.
 
