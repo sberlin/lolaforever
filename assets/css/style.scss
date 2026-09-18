@@ -2,9 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-@media (min-width: 544px) {
+@media (min-width: 900px) {
   .main-content p img[alt*="Treffen"] {
     max-width: 30%;
+  }
+}
+@media (min-width: 544px) {
+  .main-content p img[alt*="Treffen"] {
+    max-width: 48%;
   }
 }
 
